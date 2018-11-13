@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Debit Maneger</string>
+    <string name="report">Report</string>
+    <string name="give">Give</string>
+    <string name="take">Take</string>
+
+    <string name="button">Date and Time</string>
+    <string name="text">Date and Time</string>
+
+    <string name="date_selected"></string>
+
+
+</resources>
